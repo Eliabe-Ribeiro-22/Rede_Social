@@ -14,6 +14,7 @@ export class FirstComponentComponent{
     name: 'Uno',
     year: 2013,
   }
+  
   constructor() {}
 
    
